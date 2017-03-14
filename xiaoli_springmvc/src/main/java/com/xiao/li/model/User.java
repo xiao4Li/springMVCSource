@@ -1,4 +1,4 @@
-package com.xiao.li.modal;
+package com.xiao.li.model;
 
 /**
  * @Description: [XXX XXX]
